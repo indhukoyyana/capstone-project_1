@@ -1,0 +1,661 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+.A{
+	height: 4000px;
+	width: 1000px;
+	background-color:grey;
+	border: 1px solid black;
+}
+.A1{
+	height: 1000px;
+	width: 1000px;
+	background-color:whitesmoke;
+	border: 1px solid black;
+}
+.A2{
+	height: 1000px;
+	width: 1000px;
+	background-color:whitesmoke;
+	border: 1px solid black;
+}
+.A3{
+	height: 1000px;
+	width: 1000px;
+	background-color:whitesmoke;
+	border: 1px solid black;
+}
+.A4{
+	height: 1000px;
+	width: 1000px;
+	background-color:whitesmoke;
+	border: 1px solid black;
+}
+.A1a{
+	font-size: 35px;
+	font-family: fantasy;
+	color: deeppink;
+	margin-left: 80px;
+}
+.A1b{
+	height: 400px;
+	width: 1000px;
+	background-color: lightpink;
+	
+}
+.A1bfirst{
+	height: 400px;
+	width: 500px;
+	background-color:whitesmoke;
+    float: left;
+}
+.A1bsecond{
+	height: 400px;
+	width: 500px;
+	background-color: grey;
+	float: right;
+}
+.img1{
+	height: 400px;
+	width: 500px;
+}
+.A1bfirst1{
+	font-size: 40px;
+	color: blue;
+	font-family:fantasy;
+	margin-left: 110px;
+	margin-top: 90px;
+}
+.A1bfirst2{
+	font-family:initial;
+	font-size:20px;
+	color: darkgrey;
+	margin-left: 110px;
+}
+.A1bdiv{
+	height: 200px;
+	width: 1000px;
+	float: left;
+	background-color: maroon;
+	margin-top: 50px;
+}
+.A1bdivver1{
+	height: 200px;
+	width: 250px;
+	background-color: palegreen;
+	float: left;
+}
+.A1bdivver2{
+	height: 200px;
+	width: 250px;
+	background-color: gold;
+	float: left;
+}
+.A1bdivver3{
+	height: 200px;
+	width: 250px;
+	background-color:magenta;
+	float: left;
+}
+.A1bdivver4{
+	height: 200px;
+	width: 250px;
+	background-color: blue;
+	float: left;
+}
+.para1{
+	font-size: 30px;
+	font-family:cursive;
+	color: white;
+	margin-left: 60px;
+	margin-top:90px;
+}
+.para2{
+	font-size: 30px;
+	font-family:cursive;
+	color: white;
+	margin-left: 60px;
+	margin-top: 90px;
+}
+.para3{
+	font-size: 30px;
+	font-family:cursive;
+	color: white;
+	margin-left: 60px;
+	margin-top: 90px;
+}
+.para4{
+	font-size: 30px;
+	font-family:cursive;
+	color: white;
+	margin-left: 60px;
+	margin-top: 90px;
+}
+.icon1{
+	height: 40px;
+	width: 40px;
+	
+}
+.A1c{
+	height: 230px;
+	width: 1000px;
+	background-color:whitesmoke;
+	margin-top: 270px;
+}
+.para5{
+	font-size: 20px;
+	font-family:cursive;
+	color: darkgrey;
+}
+.icon1{
+	height: 300px;
+	width: 300px;
+	color: white;
+	margin-top: 20px;
+	margin-left: 40px;
+}
+.A2a{
+	height: 400px;
+	width: 800px;
+	background-color: grey;
+	
+	margin-left: 100px;
+}
+.A2averdiv1{
+	height: 400px;
+	width: 400px;
+	background-color: lightblue;
+	float: left;
+	
+}
+.A2averdiv2{
+	height: 400px;
+	width: 400px;
+	background-color: pink;
+	float: right;
+}
+.img2{
+	height:400px;
+	width: 400px;
+}
+.div1{
+	height:200px;
+	width:400px;
+	background-color: red;
+}
+.div2{
+	height:200px;
+	width:400px;
+	background-color:green;
+}
+.div11{
+	height:200px;
+	width:200px;
+	background-color:#8BE8E5;
+	float: left;
+}
+.div12{
+	height: 200px;
+	width: 200px;
+	background-color:#F2BED1;
+	float:right;
+
+}
+.div21{
+	height: 200px;
+	width: 200px;
+	background-color: blue;
+	float: left;
+}
+.div22{
+	height:200px;
+	width: 200px;
+	background-color:gold;
+	float: left;
+}
+.div112{
+	height: 60px;
+	width:60px ;
+	float: right;
+	background-color: yellow;
+	border:1px solid black;
+	border-radius: 30px;
+	margin-top: 16px;
+	margin-right: 10px;
+}
+.peopleimg{
+	height: 60px;
+	width: 60px;
+	border-radius: 30px;
+}
+.teacher{
+	text-align: right;
+	color: darkgreen;
+	font-size: 20px;
+	margin-top: 90px;
+}
+.parateacher{
+	text-align: center;
+	font-size: 10px;
+	color: darkgreen;
+}
+.read{
+	text-align: right;
+	color: darkgreen;
+	font-size: 20px;
+}
+.div121{
+	height: 60px;
+	width:60px ;
+	float: right;
+	background-color: yellow;
+	border:1px solid black;
+	border-radius: 30px;
+	margin-top: 16px;
+	margin-right: 10px;
+}
+.diamondimg{
+	height: 60px;
+	width: 60px;
+	border-radius: 30px;
+}
+.mission{
+	text-align: right;
+	color: hotpink;
+	font-size: 20px;
+	margin-top: 90px;
+}
+.paramission{
+	text-align: center;
+	font-size: 10px;
+	color: hotpink;
+}
+.readm{
+	text-align: right;
+	color: hotpink;
+	font-size: 20px;
+}
+.schgirl{
+	height: 200px;
+	width: 200px;
+}
+.schboy{
+	height: 200px;
+	width: 200px;
+}
+.gold{
+	height: 350px;
+	width: 900px;
+	background-color: gold;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+.heading{
+	margin-top: 20px;
+	font-family:sans-serif ;
+	font-size:30px;
+	color: white;
+}
+.hordiv{
+	height: 250px;
+	width: 707px;
+	background-color:gold;
+	margin-top: 15px;
+	margin-left: 90px;
+}
+.verticaldiv1{
+	height: 250px;
+	width: 160px;
+	background-color:white;
+	float: left;
+	margin-right: 20px;
+	border: 1px solid black;
+}
+.verticaldiv2{
+	height: 250px;
+	width: 160px;
+	background-color:white;
+	float: left;
+	margin-right: 20px;
+	border: 1px solid black;
+}
+.verticaldiv3{
+	height: 250px;
+	width: 160px;
+	background-color:white;
+	float: left;
+	margin-right: 20px;
+	border: 1px solid black;
+}
+.verticaldiv4{
+	height: 250px;
+	width:160px;
+	background-color:white;
+	float: left;
+	border: 1px solid black;
+}
+.circle1{
+	height: 60px;
+	width:60px ;
+	float:center;
+	background-color: yellow;
+	border-radius: 30px;
+	margin-top: 16px;
+	margin-left: 50px;
+}
+.studyicon{
+	height: 60px;
+	width: 60px;
+	border-radius: 30px;
+}
+.ENV{
+	font-size:15px;
+	color: hotpink;
+	font-family:fantasy;
+	margin-left:40px;
+}
+.ENVPARA{
+	font-size: 10px;
+    color: black;
+    font-family: cursive;
+    text-align: center;
+}
+.circle2{
+	height: 60px;
+	width:60px ;
+	float:center;
+	background-color: yellow;
+	border-radius: 30px;
+	margin-top: 16px;
+	margin-left: 50px;
+}
+.learnicon{
+	height: 60px;
+	width: 60px;
+	border-radius: 30px;
+}
+.ACT{
+	font-size: 15px;
+	color: blue;
+	font-family:fantasy;
+	margin-left:30px;
+}
+.ACTIVE{
+	font-size: 10px;
+    color: black;
+    font-family: cursive;
+    text-align: center;
+}
+.circle3{
+	height: 60px;
+	width:60px ;
+	float:center;
+	background-color: yellow;
+	border-radius: 30px;
+	margin-top: 16px;
+	margin-left: 50px;
+}
+.creativeicon{
+	height: 60px;
+	width: 60px;
+	border-radius: 30px;
+}
+.CRE{
+	font-size: 15px;
+	color: green;
+	font-family:fantasy;
+	margin-left:30px;
+}
+.CREATIVE{
+	font-size: 10px;
+    color: black;
+    font-family: cursive;
+    text-align: center;
+}
+.circle4{
+	height: 60px;
+	width:60px ;
+	float:center;
+	background-color: yellow;
+	border-radius: 30px;
+	margin-top: 16px;
+	margin-left: 50px;
+}
+.teachericon{
+	height: 60px;
+	width: 60px;
+	border-radius: 30px;
+}
+.QUA{
+	font-size: 15px;
+	color:gold;
+	font-family:fantasy;
+	margin-left:30px;
+}
+.QUALIFIED{
+	font-size: 10px;
+    color: black;
+    font-family: cursive;
+    text-align: center;
+}
+.heading1{
+	margin-top: 10px;
+	margin-left: 70px;
+}
+.bottom{
+	font-size:15px;
+	font-family: cursive;
+	color: darkgrey;
+	text-align: center;
+}
+.horidivision{
+	height:400px;
+	width: 900px;
+	background-color: #35A29F;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+.horizondiv{
+	height: 350px;
+	width: 700px;
+	background-color:#35A29F;
+	margin-left:80px;
+	margin-top:0px;
+}
+.divvertical1{
+	height:350px;
+	width:225px;
+	background-color:dimgrey;
+	float: left;
+	margin-right:11px;
+}
+.divvertical2{
+	height:350px;
+	width:225px;
+	background-color:whitesmoke;
+	float: left;
+	margin-right:11px;
+}
+.divvertical3{
+	height:350px;
+	width:225px;
+	background-color:yellowgreen;
+	float: left;
+}
+.eyes{
+	height: 350px;
+	width: 225px;
+}
+.spects{
+	height: 350px;
+	width: 225px;
+}
+.heading2{
+	margin-top: 30px;
+	margin-left: 10px;
+}
+.paragraph{
+	text-align: center;
+	color: dimgrey;
+	font-family: cursive;
+	font-size:13px ;
+}
+.box{
+	height:500px;
+	width:900px;
+	background-color:whitesmoke;
+	margin-top: 30px;
+	margin-left:50px;
+}
+.rectangle{
+	height:400px;
+	width: 900px;
+	background-color:grey;
+	margin-top:62px;
+}
+.rectangle1{
+	height: 400px;
+	width: 300px;
+	background-color:ghostwhite;
+	float: left;
+}
+.rectangle2{
+	height: 400px;
+	width: 300px;
+	background-color:greenyellow;
+	float: left;
+}
+.rectangle3{
+	height: 400px;
+	width: 300px;
+	background-color:ghostwhite;
+	float: left;
+}
+.jumping{
+	height: 400px;
+	width: 300px;
+}
+.funny{
+	text-align: right;
+	font-family: fantasy;
+	margin-right: 10px;
+}
+.happy{
+	text-align: right;
+	font-family:cursive;
+	margin-right: 10px;
+	font-size:15px;
+}
+.professional{
+	text-align: left;
+	font-family:fantasy;
+	margin-left: 10px;
+}
+.teaching{
+	text-align:left;
+	font-family:cursive;
+	margin-left: 10px;
+	font-size:15px;
+}
+.htmldivhor{
+	height: 500px;
+	width: 900px;
+	background-color:#35A29F;
+	margin-top:50px;
+	margin-left: 50px;
+}
+.htmldivhor1{
+	height: 350px;
+	width: 800px;
+	background-color: white;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+.cssver1{
+	height: 350px;
+	width: 400px;
+	background-color: red;
+	float: left;
+}
+.cssver2{
+	height: 350px;
+	width: 400px;
+	background-color:ghostwhite;
+	float: left;
+}
+.boyjump{
+	height:350px;
+	width: 400px;
+}
+.heading3{
+	margin-top: 80px;
+	margin-left:30px;
+}
+.sport{
+	font-size:15px;
+	font-family: cursive;
+	color: darkgrey;
+	margin-left: 30px;
+}
+.readmore{
+	font-size:18px;
+	color: hotpink;
+	margin-left: 30px;
+}
+.greyhori{
+	height: 200px;
+	width: 900px;
+	background-color:grey;
+	margin-top:30px;
+	margin-left: 50px;
+}
+.map{
+	height:200px;
+	width: 300px;
+	background-color:whitesmoke;
+	float:left;
+}
+.number{
+	height:200px;
+	width: 300px;
+	background-color:whitesmoke;
+	float:left;
+}
+.mail{
+	height:200px;
+	width: 300px;
+	background-color:whitesmoke;
+	float:left;
+}
+.rounds{
+	height: 80px;
+	width:80px ;
+	float:center;
+	background-color: yellow;
+	border-radius:50px;
+	margin-top: 40px;
+	margin-left: 100px;
+}
+.locationphonemail{
+	height: 80px;
+	width:80px ;
+	border-radius:50px;
+}
+.footer{
+	height: 170px;
+	width: 900x;
+	background-color: hotpink;
+}
+.footer1{
+	height: 50px;
+	width: 900x;
+	background-color: maroon;
+}
+i{
+	margin-right: 15px;
+	size: 40px;
+	margin-top: 15px;
+	color: ghostwhite;
+}
